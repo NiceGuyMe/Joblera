@@ -2,6 +2,7 @@
 ## _A simple Android app_
 
 Joblera is an android application that does web scrapping on the portaljob-madagascar site
+https://www.portaljob-madagascar.com/
 
 
 ## Installation
